@@ -1,1 +1,0 @@
-This repo offers a convenient way to download the installer of [stable-cascade-one-click-installer](https://github.com/EtienneDosSantos/stable-cascade-one-click-installer), enhancing the user experience. 
