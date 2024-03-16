@@ -38,7 +38,7 @@ REM Install other requirements
 call .\venv\Scripts\pip install -r requirements.txt
 
 REM Move new_install.bat into the root of stable-cascade-one-click-installer directory
-move "%script_dir%new_install.bat" "%script_dir%stable-cascade-one-click-installer\"
+move "%script_dir%install.bat" "%script_dir%stable-cascade-one-click-installer\"
 
 echo Installation completed. Execute 'run.bat' script to start generating!
 
